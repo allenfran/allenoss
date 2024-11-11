@@ -3,9 +3,9 @@
   "host_source": "https://sss.ziniaoapp.com",
   "target": 1,
   "email": "",
-  "tg": "",
+  "tg": "https://t.me/txt",
   "crisp": "",
-  "loginless": 0,
+  "loginless": 1,
   "loginless_link": "",
   "code_login": 1,
   "code_register": 1,
@@ -14,12 +14,13 @@
   "captcha_checkin": 1,
   "notice": 1,
   "checkin": 1,
-  "line_flag_regex": "(^[^#|\\s+]*)[#|\\s+]",
+  "line_flag_regex": "([\\u4e00-\\u9fa5]+)",
   "line_exclude_loc": 0,
   "payment_config": {
-    "Alipay": "2"
+    "Alipay": "1",
+    "Wechat": "1"
   },
   "hosts": [
-    "https://sss.ziniaoapp.com"
- ]
+    "https://vip.ziniaoapp.com"
+  ]
 }
