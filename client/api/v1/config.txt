@@ -1,7 +1,7 @@
 {
   "key": "v2b_naicha",
   "host_source": "https://sss.ziniaoapp.com",
-  "host_source": "https://vip.ziniaoapp.com,
+  "host_source": "https://vip.ziniaoapp.com",
   "target": 1,
   "email": "",
   "tg": "",
