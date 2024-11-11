@@ -22,6 +22,5 @@
   },
   "hosts": [
     "https://sss.ziniaoapp.com"
-    "https://vip.ziniaoapp.com"
-  ]
+ ]
 }
